@@ -1,0 +1,16 @@
+---
+title: "Our Website"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Sam!
+
+# Casey!
+
+
+# Giraffe!
+![Giraffe munching grass](https://upload.wikimedia.org/wikipedia/commons/0/0b/Giraffe_face_FLA.jpg)
+
